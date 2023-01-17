@@ -1,0 +1,3 @@
+[submodule "DiSCUS"]
+	path = DiSCUS
+	url = git@github.com:Biocomputation-CBGP/DiSCUS.git
